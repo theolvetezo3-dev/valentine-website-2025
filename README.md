@@ -45,8 +45,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Mamohau Bonnie Dintlhoane"                    // Your Valentine's name
+pageTitle: "Shtandwa Sam Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -83,7 +83,7 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
+    title: "Yay! I'm the luckiest man...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
